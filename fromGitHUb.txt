@@ -1,0 +1,4 @@
+This is a file I added directly from GitHub.com
+and now i ll commit from git`hub.com
+which is not usual
+we're just simulating a situation 
